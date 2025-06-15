@@ -1,11 +1,15 @@
 # 👨🏽‍💻Ronan Passarelli
-**`Desenvolvedor FullStack`**
+**`Software Developer`**
 
-Me chamo Ronan Passarelli, sou de Ribeirão Preto interior de São Paulo. Atualmente estou em transição de carreira, e cursando o último semestre de Análise e Desenvolvimento de Sistemas na UniFran. Apresentado a tecnologia cedo, tenho facilidade em trabalhar com novos softwares. Além de habilidades como comunicação, trabalho em equipe, resolução de problemas, adaptabilidade, liderança e inteligência emocional. Apaixonado por tecnologia, busco oportunidades na area de TI. Para mais informações sobre mim [Linkedin](https://www.linkedin.com/in/ronan-passarelli-120a52214/) e [Instragram](https://www.instagram.com/ronanpassarelli/).
+Natural de Ribeirão Preto interior de São Paulo. Atualmente estou em transição de carreira, estudante do último semestre de Análise e Desenvolvimento de Sistemas na UniFran. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
+<h3 align="left">Connect with me!</h3>
 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ronan.passarelli2011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ronan-passarelli-120a52214/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ronanpassarelli/)
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -51,7 +55,7 @@ Me chamo Ronan Passarelli, sou de Ribeirão Preto interior de São Paulo. Atualm
 <br/>
 <br/>
 
-### 🧮 Linguagens e Tecnologias
+### 🧮 GitHub Stats
 
 <p>
   <img 
