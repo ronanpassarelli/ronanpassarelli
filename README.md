@@ -1,13 +1,13 @@
 # 👨🏽‍💻Ronan Passarelli
 **`Software Developer`**
 
-Natural de Ribeirão Preto interior de São Paulo. Atualmente estou em transição de carreira, estudante do último semestre de Análise e Desenvolvimento de Sistemas na UniFran. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+“Natural de Jardinópolis (SP), estudante do último semestre de Análise eDesenvolvimento de Sistemas pela Cruzeiro do Sul, estou em transição de carreira para a área de tecnologia. Atualizo continuamente minhas habilidades técnicas — por meio de cursos, workshops e projetos —visando novos desafios no setor de TI. Tenho paixão por aprender eaplicar conhecimento para desenvolver soluções inovadoras e de impacto.”
 </p>
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ronan.passarelli2011@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ronan-passarelli-120a52214/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ronanpassarelli/)
+[<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](mailto:ronan.passarelli2011@gmail.com)
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/ronan-passarelli-120a52214/)
+[<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />](https://www.instagram.com/ronanpassarelli/)
 
 ### 🤖 Languages ​​and Technologies
 
