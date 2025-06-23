@@ -1,5 +1,5 @@
 # 👨🏽‍💻Ronan Passarelli
-**`Software Developer`**
+**`Desenvolvedor Full Stack`**
 
 “Natural de Jardinópolis (SP), estudante do último semestre de Análise eDesenvolvimento de Sistemas pela Cruzeiro do Sul, estou em transição de carreira para a área de tecnologia. Atualizo continuamente minhas habilidades técnicas — por meio de cursos, workshops e projetos —visando novos desafios no setor de TI. Tenho paixão por aprender eaplicar conhecimento para desenvolver soluções inovadoras e de impacto.”
 </p>
