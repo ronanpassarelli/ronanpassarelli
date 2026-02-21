@@ -1,7 +1,16 @@
 # 👨🏽‍💻Ronan Passarelli
-**`Desenvolvedor Full Stack`**
+**`Analista de Dados em formação | Python • SQL • Power BI`**
 
-“Natural de Jardinópolis (SP), estudante do último semestre de Análise eDesenvolvimento de Sistemas pela Cruzeiro do Sul, estou em transição de carreira para a área de tecnologia. Atualizo continuamente minhas habilidades técnicas — por meio de cursos, workshops e projetos —visando novos desafios no setor de TI. Tenho paixão por aprender eaplicar conhecimento para desenvolver soluções inovadoras e de impacto.”
+
+Estudante do último semestre de Análise e Desenvolvimento de Sistemas.
+Em transição de carreira para a área de Dados, desenvolvendo projetos práticos com foco em análise exploratória, visualização e geração de insights para tomada de decisão.
+
+Atualmente aprimorando:
+• Python para análise de dados (Pandas, NumPy)
+• SQL para manipulação e consulta de dados
+• Power BI para criação de dashboards interativos
+
+Em breve: Projetos públicos de análise de dados.
 </p>
 <h3 align="left">Connect with me!</h3>
 
