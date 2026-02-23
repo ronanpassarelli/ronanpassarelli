@@ -2,15 +2,12 @@
 **`Analista de Dados em formação | Python • SQL • Power BI`**
 
 
-Estudante do último semestre de Análise e Desenvolvimento de Sistemas.
-Em transição de carreira para a área de Dados, desenvolvendo projetos práticos com foco em análise exploratória, visualização e geração de insights para tomada de decisão.
+Analista de Dados em formação | Python • SQL • Power BI
 
-Atualmente aprimorando:
-• Python para análise de dados (Pandas, NumPy)
-• SQL para manipulação e consulta de dados
-• Power BI para criação de dashboards interativos
+Estudante de ADS focado em análise exploratória, visualização e modelagem de dados.
+Construindo projetos práticos voltados à geração de insights para tomada de decisão.
 
-Em breve: Projetos públicos de análise de dados.
+🚀 Em constante evolução na área de Dados.
 </p>
 <h3 align="left">Connect with me!</h3>
 
