@@ -51,8 +51,8 @@ Construindo projetos práticos voltados à geração de insights para tomada de 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
